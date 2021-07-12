@@ -1,0 +1,25 @@
+.centar{
+    text-align: center;
+}
+.margen{
+    padding-bottom: 20px;
+    
+}
+.titulo{
+    text-align: center;
+    padding: 50px;
+}
+iframe{
+    width: 50%;
+}
+@media (max-width: 600px) {
+    iframe{
+        padding: 0 2%;
+        width: 96%;
+    }
+}
+@media (min-width: 993px) {
+    .nav-content{
+        display: none;
+    }
+}
