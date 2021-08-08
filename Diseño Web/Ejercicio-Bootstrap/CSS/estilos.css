@@ -1,0 +1,31 @@
+.margen-bot{
+    margin-bottom: 100px;
+}
+.padding-top{
+    padding-top: 20px;
+}
+.footer{
+    border-top: 1px solid white;
+}
+.padding-bot{
+    padding-bottom: 50px;
+}
+.back{
+    background-color: rgb(25, 25, 25);
+}
+.padding{
+    text-align: center;
+}
+.text-color{
+    color: black;
+    font-weight: 900;
+}
+iframe{
+    width: 60%;
+}
+@media (max-width: 600px) {
+    iframe{
+        padding: 0 2%;
+        width: 96%;
+    }
+}
